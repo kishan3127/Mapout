@@ -162,7 +162,6 @@
 }
 
 .parent-wrapper.jobs > div:nth-of-type(1) {
-  padding: 40px 0;
   position: relative;
   top: 0;
 }
@@ -172,6 +171,7 @@
   left: 0;
   right: 0;
   top: 0;
+  padding: 30px 20px 130px;
 }
 
 .job-company-industry {
@@ -303,6 +303,7 @@
   display: block;
   max-width: 100%;
   overflow: hidden;
+  box-sizing: border-box;
 }
 
 .job-company-years {
