@@ -1,2 +1,0 @@
-# Mapout
-Created with CodeSandbox
