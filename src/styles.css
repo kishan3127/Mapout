@@ -189,6 +189,7 @@
   align-items: center;
   justify-content: space-between;
   margin-bottom: 10px;
+  column-gap: 11px;
 }
 
 .job-company-employees img {
